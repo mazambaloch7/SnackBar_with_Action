@@ -1,0 +1,2 @@
+rootProject.name='SnackBar_with_Action'
+include ':app'
